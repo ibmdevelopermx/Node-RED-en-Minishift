@@ -46,14 +46,15 @@ Crea una plataforma para integrar diferentes dispositivos de IoT (Internet of Th
 
 # Habilitar la opción de continuous delivery
 1. Seleccionamos el boton de Desplegar su aplicacion
-![](assets/asset.png)<br/>
+![](assets/asset6.png)<br/>
 3. Seleccionamos la opcion de Kubernetes y le damos en siguiente
-![](assets/asset.png)<br/>
+![](assets/asset7.png)<br/>
 5. Le damos en el boton de crear y esperamos unos minutos
-![](assets/asset.png)<br/>
+![](assets/asset8.png)<br/>
 
 # Abrir el editor visual de Node-RED
 1. Abrimos el link llamado URL de la aplicacion
+![](assets/asset9.png)<br/>
 
 # Configurar la aplicación de Node-RED
 
