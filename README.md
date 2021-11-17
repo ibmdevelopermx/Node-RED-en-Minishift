@@ -18,4 +18,12 @@ Crea una plataforma para integrar diferentes dispositivos de IoT (Internet of Th
 2.	Una vez que tengamos el código nos vamos a Gestionar>Facturación y Uso>Facturación
 3.	Buscamos “Códigos de características (Promocionales)”
 
-# Pasos
+## Contenido
+* [Creación una aplicacion Node-RED](#Creación-de-Node-Red).
+* [Creación de la plataforma](#Creación-de-la-plataforma).
+* [Habilitar la opción de continuous delivery](#Habilitar-la-opción-de-continuous-delivery).
+* [Abrir el editor visual de Node-RED](#Abrir-el-editor-visual-de-Node-RED).
+* [Configurar la aplicación de Node-RED](#Configurar-la-aplicación-de-Node-RED).
+* [Añadir nodos extra a Node-RED](#Añadir-nodos-extra-a-Node-RED).
+* [Despliegue de la Plataforma de Watson IoT](#Despliegue-de-la-Plataforma-de-Watson-IoT).
+
