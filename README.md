@@ -71,3 +71,24 @@ Crea una plataforma para integrar diferentes dispositivos de IoT (Internet of Th
 ![](assets/asset15.png)<br/>
 
 # Añadir nodos extra a Node-RED
+Dentro de Node-RED podemos maejar todos los nodos adicionales que se ocuparan, y tambien se puede checar el estado del nodo, para dar un mantenimiento efectivo.
+1. Nos vamos a la pantalla donde tenemos los URL, y seleccionamos la url de Fuente. Esto nos llevara a un repositorio de github donde se pueden editar los archivos
+![](assets/asset9.png)<br/>
+2. Seleccionamos en el archivo **package.json**
+![](assets/asset16.png)<br/>
+3. Damos click en el boton de editar
+![](assets/asset17.png)<br/>
+4. Añadimos el siguiente codigo, en la seccion de dependencias, en la penultima posicion. NOTA: No olvidar la coma del final
+##  "node-red-contrib-scx-ibmiotapp": "0.x",
+5. Añadimos un comentario del cambio y le damos en commit changes
+![](assets/asset18.png)<br/>
+6. Con este cambio, tendremos una pipeline para poder correr la app, podemos consultar el estao en la seccion de ci-pipelines.
+![](assets/asset19.png)<br/>
+
+# Despliegue de la Plataforma de Watson IoT
+1. Regresamos a la pagina de detalles de la aplicacion, y seleccionamos en servicios, Internet of Things en el boton de abrir panel de control
+![](assets/asset9.png)<br/>
+2. Le damos click en el boton de Lanzar
+![](assets/asset20.png)<br/>
+3. En esta pestaña podemos añadir cualquier dispositivo a IoT para poder configurarlo y crear todo. 
+![](assets/asset21.png)<br/>
