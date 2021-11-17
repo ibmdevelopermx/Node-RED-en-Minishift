@@ -29,19 +29,28 @@ Crea una plataforma para integrar diferentes dispositivos de IoT (Internet of Th
 
 # Creación una aplicacion Node-RED
 1. Iniciar sesión en [**IBM Cloud**](https://cloud.ibm.com/login).<br/>
-2. Abrir el catálogo, buscar node-red.
-3. Nombrar el servicio con un nombre unic y darle en crear
+2. Abrir el catálogo, buscar node-red <br/>
+![](assets/asset0.png)<br/>
+4. Nombrar el servicio con un nombre unic y darle en crear
+![](assets/asset1.png)<br/>
 
 # Creación de la plataforma
 1. Selecionamos el boton de crear servicio
-2. Seleccionamos la opcion de Internet of Things y le damos en crear
-3. Seleccionamos el boton de siguiente
-4. Verificamos las regiones y por ultimo le damos en listo
+![](assets/asset2.png)<br/>
+3. Seleccionamos la opcion de Internet of Things y le damos en crear
+![](assets/asset3.png)<br/>
+5. Seleccionamos el boton de siguiente
+![](assets/asset4.png)<br/>
+7. Verificamos las regiones y por ultimo le damos en listo
+![](assets/asset5.png)<br/>
 
 # Habilitar la opción de continuous delivery
 1. Seleccionamos el boton de Desplegar su aplicacion
-2. Seleccionamos la opcion de Kubernetes y le damos en siguiente
-3. Le damos en el boton de crear y esperamos unos minutos
+![](assets/asset.png)<br/>
+3. Seleccionamos la opcion de Kubernetes y le damos en siguiente
+![](assets/asset.png)<br/>
+5. Le damos en el boton de crear y esperamos unos minutos
+![](assets/asset.png)<br/>
 
 # Abrir el editor visual de Node-RED
 1. Abrimos el link llamado URL de la aplicacion
