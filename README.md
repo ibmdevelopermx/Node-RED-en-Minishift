@@ -28,3 +28,23 @@ Crea una plataforma para integrar diferentes dispositivos de IoT (Internet of Th
 * [Despliegue de la Plataforma de Watson IoT](#Despliegue-de-la-Plataforma-de-Watson-IoT).
 
 # Creación una aplicacion Node-RED
+1. Iniciar sesión en [**IBM Cloud**](https://cloud.ibm.com/login).<br/>
+2. Abrir el catálogo, buscar node-red.
+3. Nombrar el servicio con un nombre unic y darle en crear
+
+# Creación de la plataforma
+1. Selecionamos el boton de crear servicio
+2. Seleccionamos la opcion de Internet of Things y le damos en crear
+3. Seleccionamos el boton de siguiente
+4. Verificamos las regiones y por ultimo le damos en listo
+
+# Habilitar la opción de continuous delivery
+1. Seleccionamos el boton de Desplegar su aplicacion
+2. Seleccionamos la opcion de Kubernetes y le damos en siguiente
+3. Le damos en el boton de crear y esperamos unos minutos
+
+# Abrir el editor visual de Node-RED
+1. Abrimos el link llamado URL de la aplicacion
+
+# Configurar la aplicación de Node-RED
+
