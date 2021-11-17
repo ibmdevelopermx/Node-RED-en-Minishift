@@ -1,6 +1,6 @@
 # Node RED & IoT
 
-Crea una plataforma para integrar diferentes dispositivos de IoT (Internet of Things)
+Crea una plataforma para integrar diferentes dispositivos de IoT (Internet of Things)<br/>
 ![](assets/node-red-logo.png)<br/>
 # Pre-requisitos
 •	Tener una cuenta de [**IBM Cloud**](https://cloud.ibm.com/login).<br/>
